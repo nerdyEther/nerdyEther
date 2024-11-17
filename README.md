@@ -56,7 +56,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerdyEther&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyEther&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyEther&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
@@ -75,6 +75,3 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 </div>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerdyEther&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>

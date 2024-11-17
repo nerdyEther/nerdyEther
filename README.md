@@ -13,7 +13,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 - **Web Development**: Primarily focused on creating various websites, transforming ideas into functional, user-friendly web applications. 🌍✨
 
 ### 🌟 What I'm up to? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-- 🔭 Currently working on developing an LLM application
+- 🔭 Currently working on developing an LLM application.
 - 🌱 Learning performance optimization strategies in React.
 - 👯 Looking to collaborate on open-source projects.
 - ⚡ Fun fact: When I'm not coding, I'm probably debugging.😅

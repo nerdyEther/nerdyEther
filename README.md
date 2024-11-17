@@ -64,8 +64,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 <div align="center">
 
 [![Note-Genius](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=note-genius&theme=tokyonight)](https://note-genius99.vercel.app/)
-[![Tele-Intelli](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=MoTv&theme=tokyonight)](https://github.com/nerdyEther/MoTv)
-[![Mate-My-Dog](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=Hackfest-Project-SmartClass&theme=tokyonight)]
+
 
 </div>
 
@@ -84,9 +83,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
   <a href="https://linkedin.com/in/neelansh-bansiwal-91b586237">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nerdyEther">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
 </div>
 
 

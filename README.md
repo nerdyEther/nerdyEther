@@ -9,19 +9,36 @@
 </div>
 
 ## 💫 About Me
-```typescript
-const neelansh = {
-    education: "B.Tech in CSE @ IIT Dhanbad",
-    code: ["JavaScript", "TypeScript", "C++", "Java", "SQL"],
-    technologies: {
-        frontEnd: ["React.js", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Express.js", "GraphQL"],
-        databases: ["PostgreSQL", "MongoDB", "Firebase"],
-        tools: ["Git", "Postman", "Redux", "Cloudflare Workers"]
-    },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    funFact: "I help dogs find their soulmates! 🐕"
-};
+
+<div align="center">
+  <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+</div>
+
+### 👨‍💻 Who am I?
+- 🎓 Final year CSE student at **IIT Dhanbad**
+- 💻 Full Stack Developer with a passion for building scalable applications
+- 🏆 Competitive Programmer with 1600+ rating across platforms
+- 🤖 AI enthusiast working on AI-powered collaborative tools
+- 🐕 Creator of innovative projects like dog-matching platforms
+- 🚀 Always exploring new technologies and frameworks
+
+### 🌟 What I'm up to?
+- 🔭 Currently working on AI-powered collaborative editing tools
+- 🌱 Learning about **LLMs**, **Web3**, and **Cloud Architecture**
+- 👯 Looking to collaborate on open-source projects
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, or **Competitive Programming**
+- ⚡ Fun fact: When I'm not coding, I'm helping dogs find their perfect match! 🐾
+
+### 🛠️ Tech Arsenal
+```javascript
+{
+    "frontend": ["React.js", "Next.js", "TailwindCSS", "TypeScript"],
+    "backend": ["Node.js", "Express.js", "GraphQL", "REST"],
+    "databases": ["PostgreSQL", "MongoDB", "Firebase"],
+    "ai/ml": ["Meta LLaMA", "ChatGPT", "Sentiment Analysis"],
+    "devops": ["Git", "Cloudflare Workers", "Vercel"],
+    "others": ["Data Structures", "Algorithms", "Problem Solving"]
+}
 ```
 
 ## 🏆 Competitive Programming

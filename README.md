@@ -10,24 +10,15 @@
 
 ## 💫 About Me
 
-<div align="center">
-  <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</div>
-
-### 👨‍💻 Who am I?
-- 🎓 Final year CSE student at **IIT Dhanbad**
-- 💻 Full Stack Developer with a passion for building scalable applications
-- 🏆 Competitive Programmer with 1600+ rating across platforms
-- 🤖 AI enthusiast working on AI-powered collaborative tools
-- 🐕 Creator of innovative projects like dog-matching platforms
-- 🚀 Always exploring new technologies and frameworks
+I am a Full Stack Developer and a graduate in Computer Science and Engineering from IIT Dhanbad, with 4 months of internship experience in the tech industry. My journey in software development has equipped me with a strong skill set in both front-end and back-end technologies, allowing me to build and maintain dynamic, responsive websites and applications. Along the way, I've sharpened my problem-solving skills through competitive programming. 🌐💻
 
 ### 🌟 What I'm up to?
-- 🔭 Currently working on AI-powered collaborative editing tools
-- 🌱 Learning about **LLMs**, **Web3**, and **Cloud Architecture**
+- 🔭 Currently working on developing a LLM application
+- 🌱 Learning about perfomance enhancing in web applications
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **React**, **Next.js**, **Node.js**, or **Competitive Programming**
-- ⚡ Fun fact: When I'm not coding, I'm helping dogs find their perfect match! 🐾
+- ⚡ Fun fact: When I'm not coding, I'm probably debugging😅
+
+  
 
 ### 🛠️ Tech Arsenal
 ```javascript
@@ -41,16 +32,7 @@
 }
 ```
 
-## 🏆 Competitive Programming
-<div align="center">
 
-| Platform | Rating | Problems Solved |
-|:--------:|:------:|:--------------:|
-| [![CodeForces](https://img.shields.io/badge/Codeforces-1494-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/redcoder_122) | 1494 | 250+ |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-1544-orange?style=flat&logo=leetcode)](https://leetcode.com/nerdyether/) | 1544 | 200+ |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-1668-brown?style=flat&logo=codechef)](https://www.codechef.com/users/nerdyether) | 1668 | 100+ |
-
-</div>
 
 ## 🚀 Featured Projects
 

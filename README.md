@@ -1,56 +1,83 @@
-<!-- Animated GitHub Profile README -->
+<h1 align="center">
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&repeat=true&width=435&lines=Hi+👋+I'm+Neelansh;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </div>
+</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Neelansh+%F0%9F%91%8B;Welcome+to+my+GitHub!;I'm+a+Computer+Science+Enthusiast;Open+Source+Contributor+%F0%9F%92%AA;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
+## 💫 About Me
+```typescript
+const neelansh = {
+    education: "B.Tech in CSE @ IIT Dhanbad",
+    code: ["JavaScript", "TypeScript", "C++", "Java", "SQL"],
+    technologies: {
+        frontEnd: ["React.js", "Next.js", "TailwindCSS"],
+        backEnd: ["Node.js", "Express.js", "GraphQL"],
+        databases: ["PostgreSQL", "MongoDB", "Firebase"],
+        tools: ["Git", "Postman", "Redux", "Cloudflare Workers"]
+    },
+    currentFocus: "Building scalable web applications with modern tech stack",
+    funFact: "I help dogs find their soulmates! 🐕"
+};
+```
+
+## 🏆 Competitive Programming
+<div align="center">
+
+| Platform | Rating | Problems Solved |
+|:--------:|:------:|:--------------:|
+| [![CodeForces](https://img.shields.io/badge/Codeforces-1494-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/redcoder_122) | 1494 | 250+ |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-1544-orange?style=flat&logo=leetcode)](https://leetcode.com/nerdyether/) | 1544 | 200+ |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-1668-brown?style=flat&logo=codechef)](https://www.codechef.com/users/nerdyether) | 1668 | 100+ |
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Note-Genius](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=note-genius&theme=tokyonight)](https://note-genius99.vercel.app/)
+[![Tele-Intelli](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=MoTv&theme=tokyonight)](https://github.com/nerdyEther/MoTv)
+[![Mate-My-Dog](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=Hackfest-Project-SmartClass&theme=tokyonight)](https://github.com/nerdyEther/Hackfest-Project-SmartClass)
+
+</div>
+
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nerdyEther&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyEther&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyEther&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🌐 Connect with me 
+<div align="center">
+  <a href="mailto:ether1926@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/neelansh-bansiwal-91b586237">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nerdyEther">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ---
-
-### 🌟 About Me
-Hi there! I'm **Neelansh**, a Computer Science and Engineering student at IIT Dhanbad 🎓.  
-I’m passionate about creating **innovative web apps**, solving complex problems, and learning new technologies.  
-
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
----
-
-### 🔥 Tech Stack
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-### 🎨 Latest Projects
-- 🚀 **[Project 1](https://github.com/your-username/project1)**: A short description of your project.
-- 🌟 **[Project 2](https://github.com/your-username/project2)**: Another cool project you've worked on.
-- 🔧 **[Project 3](https://github.com/your-username/project3)**: Something you're currently building.
-
----
-
-### ✨ Fun Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<div align="center">
-  <h3>✨ "Keep coding and creating something amazing!" ✨</h3>
+  <img src="https://komarev.com/ghpvc/?username=nerdyEther&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>

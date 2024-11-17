@@ -4,32 +4,33 @@
   </div>
 </h1>
 
-
 ## 💫 About Me
 
 I am a Full Stack Developer and a graduate in Computer Science and Engineering from IIT Dhanbad, with 4 months of internship experience in the tech industry. My journey in software development has equipped me with a strong skill set in both front-end and back-end technologies, allowing me to build and maintain dynamic, responsive websites and applications. Along the way, I've sharpened my problem-solving skills through competitive programming. 🌐💻
 
+### 💼 Professional Experience
+- **Deloitte**: Leveraged my skills to work on diverse projects, enhancing my ability to deliver high-quality solutions under tight deadlines. 🏢🚀
+- **Web Development**: Primarily focused on creating various websites, transforming ideas into functional, user-friendly web applications. 🌍✨
+
 ### 🌟 What I'm up to?
 - 🔭 Currently working on developing a LLM application
-- 🌱 Learning about perfomance enhancing in web applications
+- 🌱 Learning about performance enhancements in web applications
 - 👯 Looking to collaborate on open-source projects
 - ⚡ Fun fact: When I'm not coding, I'm probably debugging😅
 
-  
-
-### 🛠️ Tech Arsenal
-```javascript
-{
-    "frontend": ["React.js", "Next.js", "TailwindCSS", "TypeScript"],
-    "backend": ["Node.js", "Express.js", "GraphQL", "REST"],
-    "databases": ["PostgreSQL", "MongoDB", "Firebase"],
-    "ai/ml": ["Meta LLaMA", "ChatGPT", "Sentiment Analysis"],
-    "devops": ["Git", "Cloudflare Workers", "Vercel"],
-    "others": ["Data Structures", "Algorithms", "Problem Solving"]
-}
-```
-
-
+## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+</div>
 
 ## 🚀 Featured Projects
 

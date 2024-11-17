@@ -4,7 +4,7 @@
   </div>
 </h1>
 
-## 💫 About Me
+## 💫 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I am a Full Stack Developer and a graduate in Computer Science and Engineering from IIT Dhanbad, with 4 months of internship experience in the tech industry. My journey in software development has equipped me with a strong skill set in both front-end and back-end technologies, allowing me to build and maintain dynamic, responsive websites and applications. Along the way, I've sharpened my problem-solving skills through competitive programming. 🌐💻
 
@@ -12,7 +12,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 - **KB Infospace**: Leveraged my skills to work on client's project, enhancing my ability to deliver high-quality solutions under tight deadlines. 🏢🚀
 - **Web Development**: Primarily focused on creating various websites, transforming ideas into functional, user-friendly web applications. 🌍✨
 
-### 🌟 What I'm up to?
+### 🌟 What I'm up to? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 🔭 Currently working on developing a LLM application
 - 🌱 Learning about performance enhancements in web applications
 - 👯 Looking to collaborate on open-source projects
@@ -59,23 +59,24 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
   <img src="https://img.shields.io/badge/cloudflare%20workers-%23148FF3.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div align="center">
 
 [![Note-Genius](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=note-genius&theme=tokyonight)](https://note-genius99.vercel.app/)
-
+[![SmartClass](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=Hackfest-Project-SmartClass&theme=tokyonight)](https://github.com/nerdyEther/Hackfest-Project-SmartClass)
+[![Tele-Intelli](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=tele-intelli&theme=tokyonight)](https://github.com/nerdyEther/tele-intelli)
+[![Mate My Dog](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=mate_my_dog&theme=tokyonight)](https://github.com/nerdyEther/mate_my_dog)
 
 </div>
 
-## 💻 GitHub Stats
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyEther&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyEther&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+## 💻 GitHub Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyEther&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyEther&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="150" />
 </div>
 
-## 🌐 Connect with me 
+## 🌐 Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <div align="center">
   <a href="mailto:ether1926@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -83,7 +84,4 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
   <a href="https://linkedin.com/in/neelansh-bansiwal-91b586237">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
 </div>
-
-

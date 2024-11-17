@@ -9,7 +9,7 @@
 I am a Full Stack Developer and a graduate in Computer Science and Engineering from IIT Dhanbad, with 4 months of internship experience in the tech industry. My journey in software development has equipped me with a strong skill set in both front-end and back-end technologies, allowing me to build and maintain dynamic, responsive websites and applications. Along the way, I've sharpened my problem-solving skills through competitive programming. 🌐💻
 
 ### 💼 Professional Experience
-- **Deloitte**: Leveraged my skills to work on diverse projects, enhancing my ability to deliver high-quality solutions under tight deadlines. 🏢🚀
+- **KB Infospace**: Leveraged my skills to work on client's project, enhancing my ability to deliver high-quality solutions under tight deadlines. 🏢🚀
 - **Web Development**: Primarily focused on creating various websites, transforming ideas into functional, user-friendly web applications. 🌍✨
 
 ### 🌟 What I'm up to?

@@ -78,7 +78,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 
 ## 🌐 Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <div align="center">
-  <a href="mailto:ether1926@gmail.com">
+  <a href="mailto:neelansh404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/neelansh-bansiwal-91b586237">

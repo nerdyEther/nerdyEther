@@ -64,7 +64,9 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 <div align="center">
 
 [![Note-Genius](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=note-genius&theme=tokyonight&cache_seconds=1800)](https://note-genius99.vercel.app/)
+
 [![SmartClass](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=Hackfest-Project-SmartClass&theme=tokyonight)](https://github.com/nerdyEther/Hackfest-Project-SmartClass)
+
 [![Tele-Intelli](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=tele-intelli&theme=tokyonight&cache_seconds=1800)](https://github.com/nerdyEther/tele-intelli)
 
 [![Mate My Dog](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=mate_my_dog&theme=tokyonight&cache_seconds=1800)](https://github.com/nerdyEther/mate_my_dog)
@@ -80,9 +82,4 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 ## 🌐 Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <div align="center">
   <a href="mailto:neelansh404@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/neelansh-bansiwal-91b586237">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G

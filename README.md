@@ -63,7 +63,7 @@ I am a Full Stack Developer and a graduate in Computer Science and Engineering f
 
 <div align="center">
 
-[![Note-Genius](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=note-genius&theme=tokyonight)](https://note-genius99.vercel.app/)
+[![Note-Genius](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=note-genius&theme=tokyonight&cache_seconds=1800)](https://note-genius99.vercel.app/)
 [![SmartClass](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=Hackfest-Project-SmartClass&theme=tokyonight)](https://github.com/nerdyEther/Hackfest-Project-SmartClass)
 [![Tele-Intelli](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=tele-intelli&theme=tokyonight)](https://github.com/nerdyEther/tele-intelli)
 [![Mate My Dog](https://github-readme-stats.vercel.app/api/pin/?username=nerdyEther&repo=mate_my_dog&theme=tokyonight)](https://github.com/nerdyEther/mate_my_dog)
